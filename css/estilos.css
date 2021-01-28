@@ -17,7 +17,7 @@ body{
 
 .contenedor-menu{
     width: 1000px;
-    height: 680px;
+    height: 1000px;
     display: flex;
     margin: auto;
     margin-top: 50px;
@@ -62,35 +62,40 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', end
 
 .lista-uno,
 .lista-dos,
-.lista-tres{
+.lista-tres,
+.lista-cuatro{
     width: 100%;
     text-align: center;
 }
 
 .lista-uno h1,
 .lista-dos h1,
-.lista-tres h1{
+.lista-tres h1,
+.lista-cuatro h1{
     font-size: 24px;
     text-align: center;
 }
 
 .lista-uno img,
 .lista-dos img,
-.lista-tres img{
+.lista-tres img,
+.lista-cuatro img{
     width: 100px;
     height: 80px;
 }
 
 .lista-uno p,
 .lista-dos p,
-.lista-tres p{
+.lista-tres p,
+.lista-cuatro p{
     font-family: 'Roboto', sans-serif;
     font-size: 14px;
 }
 
 .lista-uno hr,
 .lista-dos hr,
-.lista-tres hr{
+.lista-tres hr,
+.lista-cuatro hr{
     width: 100px;
     height: 3px;
     margin: auto;
